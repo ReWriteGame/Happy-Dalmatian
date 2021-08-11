@@ -2520,6 +2520,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8843332367106111357, guid: 7dba38efde3b8644d8a6480e27c13b27, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7dba38efde3b8644d8a6480e27c13b27, type: 3}
 --- !u!4 &904762387 stripped
@@ -4706,11 +4710,16 @@ MonoBehaviour:
   - {fileID: 568853119}
   - {fileID: 1435848179}
   suitsCards:
-  - {fileID: 21300000, guid: d7342db0ff71497458be0137e4336668, type: 3}
-  - {fileID: 21300000, guid: 9c7580176d284c14fabc3bbc7442b919, type: 3}
-  - {fileID: 21300000, guid: 51dd588f149e2b74785d77238bafc5bd, type: 3}
-  - {fileID: 21300000, guid: ccd438d708789b04f955f887ccdef186, type: 3}
-  - {fileID: 21300000, guid: 26dcbbe6a18024241998477459c8b161, type: 3}
+  - {fileID: 21300000, guid: a85e511a8c0ec5745bbd76c1aa16c3f2, type: 3}
+  - {fileID: 21300000, guid: ef6b88b6e1dd1ba4cac912777fd71f9b, type: 3}
+  - {fileID: 21300000, guid: 26e6060fe5a329d4cb535ed940397d8f, type: 3}
+  - {fileID: 21300000, guid: 236aad3d64a7ffd48846a9b54ce4177f, type: 3}
+  - {fileID: 21300000, guid: 213f3a3a10aef0c43a02ec1ed98c3d8c, type: 3}
+  - {fileID: 21300000, guid: a3344394eca480b4ba96e9d826261399, type: 3}
+  - {fileID: 21300000, guid: ff77f99a193ea77429204451f040a4b8, type: 3}
+  - {fileID: 21300000, guid: 58cb6ae168c545c42a5cdedcc912145d, type: 3}
+  - {fileID: 21300000, guid: e171d3e7cb6fb08459a4701a44f2169c, type: 3}
+  - {fileID: 21300000, guid: 94dd2794a38f5604da21bfab93e71e64, type: 3}
   caedsIsOverEvent:
     m_PersistentCalls:
       m_Calls:
