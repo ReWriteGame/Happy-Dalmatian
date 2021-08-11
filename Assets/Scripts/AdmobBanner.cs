@@ -13,11 +13,12 @@ public class AdmobBanner : MonoBehaviour
 
 
     private BannerView bannerView;
-    void Start()
+    void Awake()
     {
         requestBanner();
         DontDestroyOnLoad(this.gameObject);
     }
+
 
     //////////////////////////////////////////////////
 
